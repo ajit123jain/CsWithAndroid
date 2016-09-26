@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\RajeevPC\Desktop\workshop 2\ghost_starter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\RajeevPC\Desktop\workshop 2\ghost_starter\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_a6b904eb2bdd45f4b2e5c4f0c262debbdc80a858.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Software\Programming\Android\sdk\androidSdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\RajeevPC\Desktop\workshop 2\ghost_starter\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_a5e6a658e51c0bdbfe47736802d4a52c11a007cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RajeevPC\Desktop\workshop 2\ghost_starter\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\RajeevPC\Desktop\workshop 2\ghost_starter\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_926f96d93e22b10a66dc719e7b7a1b61288d73dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Software\Programming\Android\sdk\androidSdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\RajeevPC\Desktop\workshop 2\ghost_starter\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_a5e6a658e51c0bdbfe47736802d4a52c11a007cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RajeevPC\Desktop\workshop 2\ghost_starter\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\RajeevPC\Desktop\workshop 2\ghost_starter\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_4652295147ca36c1e7a39cd459c2eb06b49dfdce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RajeevPC\Desktop\workshop 2\ghost_starter\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\RajeevPC\Desktop\workshop 2\ghost_starter\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_3c89b5eb888a6b2cb24367493c941138815c4baf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RajeevPC\Desktop\workshop 2\ghost_starter\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\RajeevPC\Desktop\workshop 2\ghost_starter\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_9bf8f49680f2eb38e89fcd63a34bd32b573a7484.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RajeevPC\Desktop\workshop 2\ghost_starter\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\RajeevPC\Desktop\workshop 2\ghost_starter\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_926f96d93e22b10a66dc719e7b7a1b61288d73dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RajeevPC\Desktop\workshop 2\ghost_starter\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\RajeevPC\Desktop\workshop 2\ghost_starter\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_4fcc6551cda50ada5e89f166931fdc59ac69040e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RajeevPC\Desktop\workshop 2\ghost_starter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\RajeevPC\Desktop\workshop 2\ghost_starter\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_569f1d1f23c89e9a13c8902c56742dddb478da0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RajeevPC\Desktop\workshop 2\ghost_starter\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\RajeevPC\Desktop\workshop 2\ghost_starter\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_4fcc6551cda50ada5e89f166931fdc59ac69040e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RajeevPC\Desktop\workshop 2\ghost_starter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\RajeevPC\Desktop\workshop 2\ghost_starter\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_a6b904eb2bdd45f4b2e5c4f0c262debbdc80a858.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RajeevPC\Desktop\workshop 2\ghost_starter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\RajeevPC\Desktop\workshop 2\ghost_starter\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_569f1d1f23c89e9a13c8902c56742dddb478da0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RajeevPC\Desktop\workshop 2\ghost_starter\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\RajeevPC\Desktop\workshop 2\ghost_starter\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_9bf8f49680f2eb38e89fcd63a34bd32b573a7484.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RajeevPC\Desktop\workshop 2\ghost_starter\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\RajeevPC\Desktop\workshop 2\ghost_starter\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_3c89b5eb888a6b2cb24367493c941138815c4baf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RajeevPC\Desktop\workshop 2\ghost_starter\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\RajeevPC\Desktop\workshop 2\ghost_starter\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_4652295147ca36c1e7a39cd459c2eb06b49dfdce.jar" />
+    </item>
+
+</items>
