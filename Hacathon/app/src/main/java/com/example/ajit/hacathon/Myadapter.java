@@ -52,12 +52,9 @@ public class Myadapter extends BaseAdapter {
             grid = new View(mContext);
             grid = inflater.inflate(R.layout.activity_myadapter, null);
             TextView textView = (TextView) grid.findViewById(R.id.grid_text);
-             textView.setTextColor(Color.parseColor("#ffffff"));
+            textView.setTextColor(Color.parseColor("#ffffff"));
             textView.setText(web[position]);
             textView.setBackgroundColor(Color.parseColor("#000000"));
-
-
-
         } else {
             grid = (View) convertView;
         }

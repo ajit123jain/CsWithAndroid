@@ -6,39 +6,12 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.GridView;
+import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
     GridView grid;
     String[] web = {
-            "1","1",
-            "2",
-            "3",
-            "3",
-            "4",
-            "5",
-            "6",
-            "7",
-            "8",
-            "9",
-            "10",
-            "11",
-            "12",
-            "13",
-            "14",
-            "2",
-            "3",
-            "3",
-            "4",
-            "5",
-            "6",
-            "7",
-            "8",
-            "9",
-            "10",
-            "11",
-            "12",
-            "13",
-            "14"
+
 
 
     } ;
@@ -49,10 +22,16 @@ public class MainActivity extends AppCompatActivity {
         Myadapter adapter = new Myadapter(MainActivity.this, web);
         grid=(GridView)findViewById(R.id.gridView);
         grid.setAdapter(adapter);
-        int size=grid.getChildCount();
-        for(int i=0; i<size; i++){
-            ViewGroup gridchild=(ViewGroup)grid.getChildAt(i);
 
+        final int size = grid.getChildCount();
+        for(int i = 0; i < size; i++) {
+            ViewGroup gridChild = (ViewGroup) grid.getChildAt(i);
+            int childSize = gridChild.getChildCount();
+            for(int k = 0; k < childSize; k++) {
+                if( gridChild.getChildAt(k) instanceof TextView) {
+                    gridChild.getChildAt(k).setVisibility(View.GONE);
+                }
+            }
         }
 
 
