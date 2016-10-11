@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\pcsaini779\Documents\Hackathon\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="C:\Users\pcsaini779\Documents\Hackathon\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_a42c88b0117aef7eaf212230aa9972c5c22794a4.jar" />
+    </item>
+    <item
+        jar="C:\Users\pcsaini779\Documents\Hackathon\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="C:\Users\pcsaini779\Documents\Hackathon\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_73501944b480477063ef2ba2cdc428a6ed476b71.jar" />
+    </item>
+    <item
+        jar="C:\Users\pcsaini779\Documents\Hackathon\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="C:\Users\pcsaini779\Documents\Hackathon\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.1_89f9ce7d4d858ca4a58ce39de080429939b914b3.jar" />
+    </item>
+    <item
+        jar="C:\Users\pcsaini779\Documents\Hackathon\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7143f48b47fc38cdd3601cbc85d8bccbe16a98ae">
+        <dex dex="C:\Users\pcsaini779\Documents\Hackathon\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_70ed47ff80496c0fe0fcb26cb2eba87f0167d020.jar" />
+    </item>
+    <item
+        jar="C:\Users\pcsaini779\Documents\Hackathon\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\pcsaini779\Documents\Hackathon\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_3dffb11d7ec8627a6b41a4ab67b4132b1eb4e34a.jar" />
+    </item>
+    <item
+        jar="C:\Users\pcsaini779\Documents\Hackathon\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="C:\Users\pcsaini779\Documents\Hackathon\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.1_ce5fad0cee30530d0143b645c22d1faed097101f.jar" />
+    </item>
+    <item
+        jar="C:\Users\pcsaini779\Documents\Hackathon\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e2da6b70b44e4a386845d6e409a4471d64e1b842">
+        <dex dex="C:\Users\pcsaini779\Documents\Hackathon\app\build\intermediates\pre-dexed\debug\instant-run_a6529b520c752080f777073cc96f60f9989f8ac1.jar" />
+    </item>
+    <item
+        jar="F:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Users\pcsaini779\Documents\Hackathon\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_1a4a971840918cbce3c39663d674527b5d17c32f.jar" />
+    </item>
+    <item
+        jar="C:\Users\pcsaini779\Documents\Hackathon\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="C:\Users\pcsaini779\Documents\Hackathon\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_87468131364d713d5a261b9c9348ab0e0800a688.jar" />
+    </item>
+    <item
+        jar="C:\Users\pcsaini779\Documents\Hackathon\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\pcsaini779\Documents\Hackathon\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_6a43bb4b4d0965aa7758edb851f30365cc1f9897.jar" />
+    </item>
+
+</items>
