@@ -2,6 +2,24 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.ajit.mychatapp">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <!--
+     needed for older devices -
+     used to check app background / foreground status
+    -->
+    <uses-permission android:name="android.permission.GET_TASKS" />
+
+    <!-- START Added for GCM -->
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <permission
+        android:name="com.example.ajit.mychatapp.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.example.ajit.mychatapp.gcm.permission.C2D_MESSAGE" />
+
+    <!-- END Added for GCM -->
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -9,13 +27,46 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name=".activity.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <!-- START Added for GCM -->
+        <receiver
+            android:name="com.google.android.gms.gcm.GcmReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+
+                <category android:name="info.androidhive.gcm" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name=".gcm.MyGcmPushReceiver"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+            </intent-filter>
+        </service>
+        <service
+            android:name=".gcm.GcmIntentService"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.android.gms.iid.InstanceID" />
+            </intent-filter>
+        </service>
+
+        <!-- END Added for GCM -->
+
+        <activity
+            android:name=".activity.ChatRoomActivity"
+            android:label="@string/title_activity_chat_room"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
